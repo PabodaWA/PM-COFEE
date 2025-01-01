@@ -7,7 +7,7 @@
         <footer>
         <div class="footer_container">
             <div class="footer-content">
-                <img src="./Pictures/logo.png" alt="logo" width="100px">
+                <img src="./PIC/logo.png" alt="logo" width="100px">
                 <p class="footer-details">177/2,<br>Lotus Road<br>Colombo 06.</p>
     
             </div>

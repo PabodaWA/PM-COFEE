@@ -7,7 +7,7 @@
         <header>
             <div class="main_header">
             
-                <a href="index.php"><img src="Pictures/logo.png" alt="PharmacyX Logo"></a>
+                <a href="index.php"><img src="./PIC/logo.png" alt="PharmacyX Logo"></a>
                 <nav>
                 <a href="index.php">Home</a>
                 <a href="products.php">Products</a>
