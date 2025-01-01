@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+
+.main_header{
+    background-color:bisque;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main_header img{
+    height: 100px;
+}
+
+.main_header nav {
+   align-items: center;
+    list-style: none;
+    display:flex;
+    gap: 15px;
+}
+
+.main_header nav a{
+    text-decoration: none;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: 400;
+  color: #000000; 
+  
+}
+
