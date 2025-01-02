@@ -1,28 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./CSS/Home.css">
+  <title>Home</title>
+  <link rel="stylesheet" href="./CSS/Home.css">
 </head>
 <body>
-
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="./PIC/1.jpeg" style="width: 1500px; height:10%">
+  <img src="./PIC/1.jpeg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="./PIC/13.jpeg" style="width: 1500px; height:10%">
+  <img src="./PIC/11.jpeg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="./PIC/9.jpg" style="width: 1500px; height:10%">
+  <img src="./PIC/9.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
@@ -38,9 +37,6 @@
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 
-<script src="./JS/Home.js">
-
-</script>
-
+<script src="./JS/Home.js"></script>
 </body>
-</html> 
+</html>
