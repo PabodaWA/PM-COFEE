@@ -9,7 +9,7 @@
             
                 <a href="index.php"><img src="./PIC/logo.png" alt="PharmacyX Logo"></a>
                 <nav>
-                <a href="index.php">Home</a>
+                <a href="index.php">Home my a</a>
                 <a href="products.php">Products</a>
                 <a href="aboutUs.php">About</a>
                 <a href="contact.php">Contact</a>
