@@ -5,6 +5,7 @@
   <link rel="stylesheet" href="./CSS/Home.css">
 </head>
 <body>
+<?php include ("./header.php"); ?>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -36,7 +37,10 @@
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
-
+<div class="popular product">
+  <h2><b>
+</div>
+<?php include ("./footer.php"); ?>
 <script src="./JS/Home.js"></script>
 </body>
 </html>
